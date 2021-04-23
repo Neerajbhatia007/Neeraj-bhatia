@@ -1,0 +1,92 @@
+h2{
+    color: purple;
+    text-decoration-line: underline;
+}
+h3{
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+}
+p,ul{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+h3,h2,p{
+    padding: 20px;
+}
+nav{
+    text-decoration: none;
+    color: white;
+    
+    padding: 20px;
+}
+nav a:hover{
+    color: red;
+}
+.hii{
+    background-color: #f2f2f2;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid grey;
+    border-radius: 10px;
+}
+.hii3{
+    background-color: green;
+    color: white;
+    width: 100%;
+    border-radius: 20px;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+   
+}
+hii3 :hover{
+    color: black;
+}
+input[type="text"],
+input[type="number"],
+input[type="password"],
+input[type="email"],
+select{
+    padding: 10px;
+    width: 50%;
+    border-radius: 10px;
+}
+#img{
+    float: right;
+    border-radius: 40px;
+    border: 5px solid purple;
+    margin: 20px;
+}
+#img2{
+    float: left;
+    border-radius: 40px;
+    border: 5px solid #972b2b;
+    margin: 20px;
+}
+#img3{
+    float: right;
+    border-radius: 40px;
+    border: 5px solid rgb(86, 86, 189);
+    margin: 20px;
+}
+#img4{
+    float: left;
+    border-radius: 40px;
+    border: 5px solid black;
+    margin: 20px;
+}
+.hhii{
+    border-radius: 40px;
+    border: 5px solid #bba7a7;
+}
+.pledge{
+    background-color: #afdbe6;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid #252323;
+    border-radius: 10px;
+}
+
